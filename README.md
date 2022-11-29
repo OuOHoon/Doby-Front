@@ -1,3 +1,53 @@
+# Doby 프론트엔드 프로젝트
+
+[Doby](https://github.com/OuOHoon/Doby)에 필요한 프론트엔드를 최대한 단순하게 개발하는 프로젝트 입니다.
+
+## 아키텍처
+- TODO...
+
+## 사용 기술
+- ReactJS
+- Material-UI
+
+## 기능 목록(To-Do list)
+- 레이아웃 기능
+  - 헤더 컴포넌트 ()
+  - 푸터 컴포넌트 (완료)
+- 인증 & 인가 기능
+  - 로그인 컴포넌트 (완료)
+  - 회원가입 컴포넌트 (완료)
+  - 에러 표현 컴포넌트
+- 게시판 기능
+  - 게시판 컴포넌트
+    - 페이지네이션 조회
+    - 제목 검색 조회
+    - 작성자 검색 조회
+  - 게시글 컴포넌트
+    - 조회
+    - 쓰기
+    - 수정
+    - 삭제
+- 댓글 기능
+  - 댓글 컴포넌트
+    - 조회
+    - 쓰기
+    - 수정
+    - 삭제
+- 게임방 기능
+  - 게임방 컴포넌트
+    - 조회
+    - 생성
+    - 수정
+    - 삭제
+    - 참가
+- 로비 기능
+  - 게임방 목록 조회
+- 게임 기능
+  - 쿼리도
+  - 티츄
+  - 리코쳇 로봇
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
